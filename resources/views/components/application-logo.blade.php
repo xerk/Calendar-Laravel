@@ -1,0 +1,1 @@
+<img width="100" src="{{ config('saas.app_logo_url') }}" class="logo mx-auto" alt="{{ config('app.name') }} Logo">          
